@@ -1,0 +1,59 @@
+# Code of Conduct
+
+## Our Commitment
+
+We are committed to making participation in this project a respectful, professional, harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+This repository represents a professional engineering portfolio and collaboration space. All participants are expected to contribute in a constructive, respectful, and technically responsible manner.
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment include:
+- Using welcoming and professional language
+- Respecting differing viewpoints and experiences
+- Giving and receiving constructive feedback gracefully
+- Prioritizing technical clarity and collaboration
+- Demonstrating empathy toward other community members
+- Respecting maintainers’ time, priorities, and published processes
+
+Examples of unacceptable behavior include:
+- Harassment, discrimination, or intimidation
+- Trolling, insulting, or derogatory comments
+- Public or private abuse
+- Deliberate disruption of discussions, reviews, or workflows
+- Publishing others’ private information without explicit permission
+- Knowingly introducing malicious code, secrets, exploits, or harmful dependencies
+
+## Scope
+
+This Code of Conduct applies within all project spaces, including:
+- Repository issues
+- Pull requests
+- Discussions
+- Commit reviews
+- Linked support and disclosure channels related to this repository
+
+It also applies when an individual is officially representing the project in public spaces.
+
+## Enforcement Responsibilities
+
+The project maintainer is responsible for clarifying and enforcing acceptable standards of behavior and may take appropriate and fair corrective action in response to any behavior deemed inappropriate, threatening, offensive, or harmful.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported through the support or security contact channels documented in this repository.
+
+All reports will be reviewed and handled in a reasonable, professional, and confidentiality-aware manner.
+
+## Enforcement Guidelines
+
+The maintainer may take any action considered appropriate, including:
+- Warning the contributor
+- Editing or removing content
+- Rejecting contributions
+- Temporarily limiting interaction
+- Permanently banning repeat or severe offenders
+
+## Attribution
+
+This document is informed by widely used open-source community conduct practices and adapted for a professional portfolio repository.
